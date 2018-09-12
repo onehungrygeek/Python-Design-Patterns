@@ -1,5 +1,5 @@
+# Elf, Dwarf and Human
 from ObserverPattern import Observable, Obeserver
-
 
 class Elf:
     name = 'Zorin'
